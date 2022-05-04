@@ -9,7 +9,7 @@ https://github.com/timothygregasaur/high-yield-farming-with-stoploss-stablecoin-
 
 Here's a YouTube tutorial on how to install it it's very simple and straightforward.
 
-
+https://youtu.be/s6OK9wxkZB0
 
 
 
